@@ -1,9 +1,9 @@
 # Data-Analysis-Dashboard
 
-I have developed a comprehensive dashboard project in Excel as a first project in Data Analysis. The process includes Data Visualization, Data Cleaning, Data Processing, and Data analysis. Using SQL as a reference to fulfill the KPI requirements for the dashboard creation, I was able to create the dashboard with efficiency and no issues.
+I have developed a comprehensive interactive dashboard project in Excel as a first project in Data Analysis. The process includes Data Visualization, Data Cleaning, Data Processing, and Data analysis. Using SQL as a reference to fulfill the KPI requirements for the dashboard creation, I was able to create the dashboard with efficiency and no issues.
 
 ## Dataset used:
--  <a href="https://github.com/HaiderrX/Data-Analysis_Dashboard/blob/main/pizza_sales%20excel%20file.xlsx">DataSet</a>
+-  <a href="https://github.com/HaiderrX/Data-Analysis_Dashboard/blob/main/pizza_sales%20excel%20file.xlsx">Dataset</a>
 
 ## KPI’s Requirement:
 
@@ -28,3 +28,4 @@ I have developed a comprehensive dashboard project in Excel as a first project i
 - Bottom 5 Worst Sellers by Total Pizzas Sold: Create a bar chart highlighting the bottom 5 worst-selling pizzas based on the total number of pizzas sold. This chart will enable us to identify underperforming or less popular pizza options.
 
 ## Dashboard
+![image](https://github.com/user-attachments/assets/fd8a1f82-bc1d-4ada-bb82-12660dd3a4a7)
