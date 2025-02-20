@@ -28,7 +28,7 @@ I have developed a comprehensive interactive dashboard project in Excel as a fir
 - Bottom 5 Worst Sellers by Total Pizzas Sold: Create a bar chart highlighting the bottom 5 worst-selling pizzas based on the total number of pizzas sold. This chart will enable us to identify underperforming or less popular pizza options.
 
 ## Dashboard
--  <a href="https://github.com/HaiderrX/Data-Analysis_Dashboard/blob/main/PizzaDB.xlsx">Dashboardt</a>
+-  <a href="https://github.com/HaiderrX/Data-Analysis_Dashboard/blob/main/PizzaDB.xlsx">Dashboard</a>
 
 ## Screenshot of Dashboard
 ![image](https://github.com/user-attachments/assets/fd8a1f82-bc1d-4ada-bb82-12660dd3a4a7)
