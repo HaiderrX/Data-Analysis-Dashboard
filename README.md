@@ -74,7 +74,3 @@ If you run into issues or have questions about the dashboard, feel free to open 
 This project is maintained by **Muhammad Ali.**  
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
